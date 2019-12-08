@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         view.backgroundColor = .orange
         // Do any additional setup after loading the view.
+        
+        // Check if this comment will be tracked by version control.
+        
+        view.backgroundColor = .purple
     }
 
 
